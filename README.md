@@ -20,6 +20,13 @@ desktop application whit using .NET framework software to manage paharmacy
   - per Day
   - per Month
  
+## Software Requirements
+
+- .NET Framework: 
+- C# 
+- Using WPF as a Desktop app
+- Microsoft SQL Server:
+ 
 
 
 ## Main Tables in DataBase
