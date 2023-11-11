@@ -3,17 +3,17 @@
   <h1 align="center">Pharmacy Management System</h1>
 
   
-desktop application whit using .NET framework software to manage paharmacy 
+desktop application using .NET framework software to manage pharmacy 
 
-## Main windows in program in order
+## Main windows in a program in order
 - login screen (user and password)
-- expired medicin 
+- expired medicine 
 - home screen
 - Reports
 - Settings
 
 ## Main Reports in program
-- list of medicines that exisit in pharmacy
+- list of medicines that exist in pharmacy
 - list of medicines that ran out
 - list of medicines that expired
 - Sales report
