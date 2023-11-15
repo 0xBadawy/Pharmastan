@@ -29,7 +29,7 @@ desktop application using .NET framework software to manage pharmacy
  
 
 
-## Main Tables in DataBase
+##  Main Tables in DataBase
 - supplayers
 - cumpanies
 - customers
