@@ -19,6 +19,7 @@ desktop application using .NET framework software to manage pharmacy
 - Sales report
   - per Day
   - per Month
+    
  
 ##  Software Requirements
 
