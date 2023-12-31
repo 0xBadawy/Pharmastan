@@ -20,6 +20,7 @@ desktop application using .NET framework software to manage pharmacy
   - per Day
   - per Month
     
+    
  
 ##  Software Requirements
 
