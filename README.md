@@ -11,6 +11,7 @@ desktop application using .NET framework software to manage pharmacy
 - home screen
 - Reports
 - Settings
+  
 
 ## Main Reports in program
 - list of medicines that exist in pharmacy
