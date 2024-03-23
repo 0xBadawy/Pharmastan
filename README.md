@@ -37,4 +37,9 @@ desktop application using .NET framework software to manage pharmacy
 - customers
   
  
+## contributors 
+<a href="https://github.com/0xBadawy/8-Puzzle/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=0xBadawy/8-Puzzle" />
+</a>
+
 
