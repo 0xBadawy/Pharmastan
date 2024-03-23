@@ -1,4 +1,3 @@
-
   <h1 align="center">Pharmacy Management System</h1>
 
   
